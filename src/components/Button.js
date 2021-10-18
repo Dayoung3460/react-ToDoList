@@ -1,5 +1,4 @@
-import React from 'react';
-import Header from "./Header";
+import React from 'react'
 import PropTypes from 'prop-types'
 
 const Button = ({ color, text, onClick }) => {
